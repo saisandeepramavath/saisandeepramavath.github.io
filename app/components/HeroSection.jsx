@@ -11,7 +11,9 @@ const HeroSection = () => {
                     </h1>
                 </div>
                 <div className="col-span-5">
-                    
+                    <div>
+                        
+                    </div>
                 </div>
             </div>
 
